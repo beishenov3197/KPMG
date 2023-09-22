@@ -1,6 +1,9 @@
-# KPMG
-- Excel - MySQL - Power Point
+# KPMG Yearly Performance Review
+- Profit Trends | Brand Performance | Customer Behavior
 
-- Conduct a thorough review of the provided datasets (Customer Demographic, Customer Addresses, Transaction data in the past three months) to assess their data quality, identifying any issues, inconsistencies, or missing data that may impact the analysis phase.
-- Develop a predictive model using machine learning algorithms to identify the potential value of the 1000 new customers. This model will leverage the labeled dataset and utilize various techniques, such as classification or regression, to predict customer value based on demographic, address, and transaction data.
-- Developed and presented a comprehensive and visually appealing dashboard to the client, incorporating data summary, analysis results, and key findings, facilitating data-driven decision-making for Sprocket Central Pty Ltd's marketing and growth strategy.
+## 1- Revenue & Profit Monthly Trend
+9.5% increase in profits from September to December, potentially influenced by holiday season and Q3 initiatives.
+Seasonal patterns in revenue fluctuations with revenue spikes in May and August.
+Strong positive correlation between monthly revenue and profit, suggesting revenue growth directly impacts profitability.
+![image](https://github.com/beishenov3197/KPMG/assets/112967670/5a78f3b8-6d01-4e60-a8c5-db1a610eb605)
+
