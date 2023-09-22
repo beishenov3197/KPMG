@@ -13,7 +13,9 @@
 ![image](https://github.com/beishenov3197/KPMG/assets/112967670/947d5fed-afd6-4d8a-8481-3098b560a7c9)
 
 
-![image](https://github.com/beishenov3197/KPMG/assets/112967670/67fa7cb2-a272-4bcb-8346-c2c9b80211c9)
+- Solex leads in sales distribution; the 2nd category comprises two brands, each with a 17%, the last group accounts for 15%, with Norco having the lowest index. 
+- Solex's highest revenue and profit margins (2nd), potentially benefited from a successful blend of premium pricing and effective cost management.
+- WeareA2B's pricing strategy and cost structure drove the highest profit margins with the 2nd high revenue.
 
 ## 3 - Customer Segmentation
 
