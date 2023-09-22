@@ -1,4 +1,4 @@
-# KPMG Yearly Performance Review
+![image](https://github.com/beishenov3197/KPMG/assets/112967670/5ccea650-1f04-430a-bf7b-0a93f3c11cdf)# KPMG Yearly Performance Review
 - Profit Trends | Brand Performance | Customer Behavior
 
 ## 1 - Revenue & Profit Monthly Trend
@@ -14,4 +14,16 @@
 
 
 ![image](https://github.com/beishenov3197/KPMG/assets/112967670/67fa7cb2-a272-4bcb-8346-c2c9b80211c9)
+
+## 3 - Customer Segmentation
+
+![image](https://github.com/beishenov3197/KPMG/assets/112967670/0c90087e-e5d9-425d-8ee0-d77fa76449b2)
+
+![image](https://github.com/beishenov3197/KPMG/assets/112967670/fb60e8f8-4b5a-488b-9e14-902339db1519)
+
+## 4 - Business Strategy Recommendation
+
+![image](https://github.com/beishenov3197/KPMG/assets/112967670/49de4def-3bbc-480d-b3e3-5c2a14f03999)
+
+![image](https://github.com/beishenov3197/KPMG/assets/112967670/00b62e63-b554-48e3-866f-641aed0bf198)
 
