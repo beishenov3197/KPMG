@@ -9,7 +9,9 @@
 ## 2 - Brand Performance
 
 ![image](https://github.com/beishenov3197/KPMG/assets/112967670/5eab2953-7eb0-47bf-9363-2bb8c6768198)
+
 ![image](https://github.com/beishenov3197/KPMG/assets/112967670/947d5fed-afd6-4d8a-8481-3098b560a7c9)
+
 
 ![image](https://github.com/beishenov3197/KPMG/assets/112967670/67fa7cb2-a272-4bcb-8346-c2c9b80211c9)
 
