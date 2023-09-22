@@ -17,9 +17,11 @@
 
 ## 3 - Customer Segmentation
 
-![image](https://github.com/beishenov3197/KPMG/assets/112967670/0c90087e-e5d9-425d-8ee0-d77fa76449b2)
+![image](https://github.com/beishenov3197/KPMG/assets/112967670/b1cd9db7-4a0d-4e9b-9158-002d92616fd5)
 
-![image](https://github.com/beishenov3197/KPMG/assets/112967670/fb60e8f8-4b5a-488b-9e14-902339db1519)
+
+![image](https://github.com/beishenov3197/KPMG/assets/112967670/b3f54976-30c8-4ed9-b80a-77ec2dee9e1c)
+
 
 ## 4 - Business Strategy Recommendation
 
