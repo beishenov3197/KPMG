@@ -37,8 +37,8 @@ Utilizing SQL for KPMG to Segregate Customer Base into 8 Distinct Segments Based
 
 ![image](https://github.com/beishenov3197/KPMG/assets/112967670/49de4def-3bbc-480d-b3e3-5c2a14f03999)
 
-- At risk customers, provide coupons or integrating new loyal program to increase  the average frequencies.
-- High value customers, design cross-selling products or bundle sales to increase average spend.
+- For at risk customers, provide coupons or integrating new loyal program to increase  the average frequencies.
+- For high value customers, design cross-selling products or bundle sales could increase average spend.
 - Improving service quality to attract premium clients and stimulate the switching of customers from other segments to the premium category.
 
 
