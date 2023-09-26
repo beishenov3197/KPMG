@@ -1,5 +1,7 @@
 # KPMG Yearly Performance Review
+
 Utilize the SQL for KPMG to create 8 segments based on recency, frequency, monetary. Generated 8 segments: At Risk, High Value Customers, Spenders, Loyal Customers, Promissing Customers , Mid Value Customers, Churned Customers , Best Customers. 
+
 ![KPMG](https://github.com/beishenov3197/KPMG/assets/112967670/20ec9dc4-6216-44a5-9dd7-b37ca212913c)
 
  
