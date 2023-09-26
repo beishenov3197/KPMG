@@ -4,6 +4,9 @@ Utilizing SQL for KPMG to Segregate Customer Base into 8 Distinct Segments Based
 
 ![KPMG](https://github.com/beishenov3197/KPMG/assets/112967670/20ec9dc4-6216-44a5-9dd7-b37ca212913c)
 
+![image](https://github.com/beishenov3197/KPMG/assets/112967670/8088ccea-6496-4182-9515-609caafde595)
+
+
  
 
 ## 1 - Revenue & Profit Monthly Trend
