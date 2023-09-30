@@ -1,6 +1,17 @@
 # KPMG Yearly Performance Review
 
-Utilizing SQL for KPMG to Segregate Customer Base into 8 Distinct Segments Based on Recency, Frequency, and Monetary Metrics: Identifying 'At Risk,' 'High-Value Customers,' 'Spenders,' 'Loyal Customers,' 'Promising Customers,' 'Mid-Value Customers,' 'Churned Customers,' and 'Best Customers.'
+**Summary**
+The project focuses on conducting a thorough business analytics of KPMG's yearly performance, primarily using SQL and Excel. This analysis includes a monthly trend analysis of revenue and profitability, distribution by product types, alongside a segmentation of the customers. Eight distinct customer segmentations are created based on recency, frequency, and monetary metrics. These customer segments include 
+•	At Risk
+•	High-Value Customers
+•	Spenders
+•	Loyal Customers
+•	Promising Customers
+•	Mid-Value Customers
+•	Churned Customers
+•	Best Customers
+This analysis helps the company with data-driven insights for strategic decision-making, enabling them to maximize profitability for different brands, and testing targeted marketing strategies for each market segment.
+
 
 ![KPMG](https://github.com/beishenov3197/KPMG/assets/112967670/20ec9dc4-6216-44a5-9dd7-b37ca212913c)
 
