@@ -23,6 +23,13 @@ The project focuses on conducting a thorough business analytics of KPMG's yearly
 This analysis helps the company with data-driven insights for strategic decision-making, enabling them to maximize profitability for different brands, and testing targeted marketing strategies for each market segment.
 
 
+**Technical highlights** 
+
+
+This analysis utilized SQL to analyze customers’ historical transaction information and created 8 distinct groups based on their purchasing behaviors (Recency, Frequency, Monetary value). The SQL example is as below: 
+
+
+
 ![KPMG](https://github.com/beishenov3197/KPMG/assets/112967670/20ec9dc4-6216-44a5-9dd7-b37ca212913c)
 
 ![image](https://github.com/beishenov3197/KPMG/assets/112967670/8088ccea-6496-4182-9515-609caafde595)
