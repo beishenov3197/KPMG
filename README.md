@@ -1,6 +1,7 @@
 # KPMG Yearly Performance Review
 
 **Summary**
+
 The project focuses on conducting a thorough business analytics of KPMG's yearly performance, primarily using SQL and Excel. This analysis includes a monthly trend analysis of revenue and profitability, distribution by product types, alongside a segmentation of the customers. Eight distinct customer segmentations are created based on recency, frequency, and monetary metrics. These customer segments include 
 •	At Risk
 •	High-Value Customers
