@@ -4,14 +4,22 @@
 
 The project focuses on conducting a thorough business analytics of KPMG's yearly performance, primarily using SQL and Excel. This analysis includes a monthly trend analysis of revenue and profitability, distribution by product types, alongside a segmentation of the customers. Eight distinct customer segmentations are created based on recency, frequency, and monetary metrics. These customer segments include :
 
-•	At Risk
-•	High-Value Customers
-•	Spenders
-•	Loyal Customers
-•	Promising Customers
-•	Mid-Value Customers
-•	Churned Customers
-•	Best Customers
+• At Risk
+
+• High-Value Customers
+
+• Spenders
+
+• Loyal Customers
+
+• Promising Customers
+
+• Mid-Value Customers
+
+• Churned Customers
+
+• Best Customers
+
 This analysis helps the company with data-driven insights for strategic decision-making, enabling them to maximize profitability for different brands, and testing targeted marketing strategies for each market segment.
 
 
